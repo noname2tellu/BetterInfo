@@ -1,0 +1,1 @@
+mods.jei.JEI.addInfo(<item:ocean_expansion:dried_azul_kelp>, ["Grants Water Breathing for 30 seconds."]);

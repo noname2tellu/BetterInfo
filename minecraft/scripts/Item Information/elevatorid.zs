@@ -1,0 +1,16 @@
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_black>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_blue>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_brown>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_cyan>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_gray>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_green>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_light_blue>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_light_gray>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_lime>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_magenta>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_orange>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_pink>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_purple>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_red>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_white>, ["While standing on this block Jump to ascend. Crouch to descend."]);
+mods.jei.JEI.addInfo(<item:elevatorid:elevator_yellow>, ["While standing on this block Jump to ascend. Crouch to descend."]);

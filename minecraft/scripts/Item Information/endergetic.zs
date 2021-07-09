@@ -1,0 +1,17 @@
+mods.jei.JEI.addInfo(<item:endergetic:black_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:blue_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:brown_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:cyan_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:gray_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:green_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:light_blue_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:light_gray_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:lime_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:magenta_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:orange_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:pink_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:purple_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:red_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:white_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);
+mods.jei.JEI.addInfo(<item:endergetic:yellow_bolloom_balloon>, ["Can be attached to yourself and other creatures with Right-Click."]);

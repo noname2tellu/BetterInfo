@@ -1,0 +1,2 @@
+mods.jei.JEI.addInfo(<item:stalwart_dungeons:shelterer_altar>, ["Activate with a Nether Star to fight the Shelterer."]);
+mods.jei.JEI.addInfo(<item:stalwart_dungeons:shelterer_spawn_egg>, ["Invincible to everything except explosions."]);

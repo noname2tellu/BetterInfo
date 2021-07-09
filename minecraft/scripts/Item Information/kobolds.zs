@@ -1,0 +1,16 @@
+mods.jei.JEI.addInfo(<item:kobolds:kobold_axe>, ["Can be obtained by trading with Kobolds."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_pickaxe>, ["Can be obtained by trading with Kobolds."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_shovel>, ["Can be obtained by trading with Kobolds."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_spawn_egg>, ["Friendly Kobolds can be traded with via Emeralds.", "Hate Villagers.", "Can be bred with Apples if a Kobold Warrior is nearby."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_sword>, ["Can be obtained by trading with Kobolds."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_warrior_spawn_egg>, ["Give a Kobold a Kobold Iron Axe to make them a warrior.", "Defends their homes from zombies, skeletons, and spiders, but no longer trade."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_zombie_spawn_egg>, ["Can be cured like a zombified Villager."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_combat_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_enchanter_spawn_egg>, ["Friendly Kobolds can be traded with via Emeralds.", "Can give enchanted items and potions."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_fire_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_health_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_invis_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_leap_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_levitation_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_resistance_potion>, ["Can be obtained by trading with Kobold Enchanter."]);
+mods.jei.JEI.addInfo(<item:kobolds:kobold_water_potion>, ["Can be obtained by trading with Kobold Enchanter."]);

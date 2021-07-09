@@ -1,0 +1,1 @@
+mods.jei.JEI.addInfo(<item:akashictome:tome>, ["To add a book to it, simply combine them in the crafting table.", "To morph back into the tome, left click the air.", "To remove items: Drop the item while sneaking while it is morphed into the item you want to remove."]);

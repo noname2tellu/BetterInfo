@@ -1,0 +1,2 @@
+mods.jei.JEI.addInfo(<item:goldenhopper:golden_hopper>, ["Like a Hopper, but can sort items."]);
+mods.jei.JEI.addInfo(<item:goldenhopper:golden_hopper_minecart>, ["ike a Hopper, but can sort items."]);

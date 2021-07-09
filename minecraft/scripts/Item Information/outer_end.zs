@@ -1,0 +1,1 @@
+mods.jei.JEI.addInfo(<item:outer_end:stalker_spawn_egg>, ["Tame: n/a","Breed: Chorus Fruit"]);
