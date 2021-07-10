@@ -1,1 +1,1 @@
-mods.jei.JEI.addInfo(<item:betterlands:bighorn_sheep_spawn_egg>, ["Tame: n/a", "Breed: Badlands Bush", "Will ram those who provoke it."]);
+mods.jei.JEI.addInfo(<item:betterlands:bighorn_sheep_spawn_egg>, ["Tame: n/a","Breed: Badlands Bush","Will ram those who provoke it."]);

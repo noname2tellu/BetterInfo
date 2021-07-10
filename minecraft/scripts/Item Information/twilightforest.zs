@@ -9,7 +9,7 @@ mods.jei.JEI.addInfo(<item:twilightforest:trophy_pedestal>, ["A trophy from a bo
 mods.jei.JEI.addInfo(<item:twilightforest:ur_ghast_trophy>, ["A trophy from a boss.","Can be displayed in an Item Frame."]);
 mods.jei.JEI.addInfo(<item:twilightforest:yeti_trophy>, ["A trophy from a boss.","Can be displayed in an Item Frame."]);
 mods.jei.JEI.addInfo(<item:twilightforest:block_and_chain>, ["Thrown similar to a Snowball.","Deals significant damage and can break blocks.","Will return if it hits an enemy."]);
-mods.jei.JEI.addInfo(<item:twilightforest:charm_of_keeping_1>, ["Rare drop from Maze Slimes. Sometimes found in chests.", "Keeps: Worn Armour, Currently Held Item, Off-Hand Item","Always Click RESPAWN."]);
+mods.jei.JEI.addInfo(<item:twilightforest:charm_of_keeping_1>, ["Rare drop from Maze Slimes. Sometimes found in chests.","Keeps: Worn Armour, Currently Held Item, Off-Hand Item","Always Click RESPAWN."]);
 mods.jei.JEI.addInfo(<item:twilightforest:charm_of_keeping_2>, ["Keeps: Worn Armour, Full Hotbar","Always Click RESPAWN."]);
 mods.jei.JEI.addInfo(<item:twilightforest:charm_of_keeping_3>, ["Keeps: Entire Inventory","Always Click RESPAWN."]);
 mods.jei.JEI.addInfo(<item:twilightforest:charm_of_life_1>, ["Saves you from a fatal hit once.","Heals the player to 4 Hearts and bestows Regeneration I for 10 seconds."]);

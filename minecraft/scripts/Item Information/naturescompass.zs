@@ -1,1 +1,1 @@
-mods.jei.JEI.addInfo(<item:naturescompass:naturescompass>, ["Right-Click for Biome GUI." , "Shift Right-Click to reset." , "When not pointing at a biome it points to the World Spawn." ]);
+mods.jei.JEI.addInfo(<item:naturescompass:naturescompass>, ["Right-Click for Biome GUI.","Shift Right-Click to reset.","When not pointing at a biome it points to the World Spawn." ]);
