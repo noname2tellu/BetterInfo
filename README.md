@@ -1,5 +1,6 @@
 # BetterInfo
 Add some additional information to items for Better Minecraft modpack.
+https://www.curseforge.com/minecraft/modpacks/better-minecraft-modpack
 
 This is done through Craft Tweaker and JEI.
 Each mod has its own file to make things easily organized and tracked.
